@@ -1,35 +1,34 @@
-# 🌐 redes
+# 🌐 Curso Cisco Networking
 
 ![Cisco](https://img.shields.io/badge/Cisco-1E90FF?logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF0000?logo=cisco&logoColor=white)
 
-**A base de tudo em Cybersecurity.** 🛠️🔥
+**Formação teórica e prática baseada nos padrões oficiais da Cisco.** 🛠️🔥
 
 ---
 
 ### ❓ Para que serve esta pasta?
 
-Este é o **registro completo da minha evolução** na fundação de Redes de Computadores.  
+Este é o **registro completo da minha evolução** no aprendizado prático da tecnologia Cisco. 
 
-Aqui não guardo apenas arquivos... guardo o **entendimento real** de como os dados nascem, viajam, se comunicam e podem ser protegidos.  
+Aqui estão documentados todos os laboratórios, comandos de IOS, topologias do Packet Tracer e conceitos estudados dia após dia. O foco aqui é dominar a infraestrutura de redes que move as maiores empresas do mundo.
 
-Desde a configuração básica de um switch ou roteador até os protocolos complexos que sustentam a internet inteira — tudo está documentado aqui.
+**Dominar Cisco é o passaporte para a cibersegurança avançada.** 🌐  
+Sem entender como configurar roteadores, switches, ACLs e firewalls na prática, é impossível blindar um ambiente corporativo contra ameaças reais.
 
-**Redes são o alicerce de toda a cibersegurança.** 🌐  
-Se você não entende como a informação flui, fica difícil proteger ela, detectar invasões ou investigar incidentes. É como tentar construir uma fortaleza sem conhecer o terreno primeiro.
-
-Cada módulo estudado aqui remove **uma camada de blindagem** que um atacante teria contra mim. Quanto mais eu domino redes, mais forte fica minha visão de defesa.
+Cada dia de estudo nesta pasta consolida minha base técnica e me prepara diretamente para cenários reais de mercado e certificações (como o CCNA).
 
 ---
 
-### 🎯 Por que isso é tão importante?
+### 🎯 Foco do Treinamento
 
-- É a para Pentest, Forensics e Threat Hunting  
-- Ensina a pensar como a infraestrutura realmente funciona  
-- Prepara o terreno para entender ataques (ARP Spoofing, MITM, VLAN Hopping, etc)
+- **Configuração de Ativos:** Domínio do CLI do Cisco IOS em switches e roteadores.
+- **Arquitetura de Redes:** Implementação de VLANs, roteamento estático/dinâmico e segurança de portas (Port Security).
+- **Simulações Reais:** Cenários complexos desenhados e testados no Cisco Packet Tracer.
 
-**Tudo começa aqui.** Esta pasta é a raiz da minha jornada em redes. 🌱
+**Mentalidade de Engenharia.** Esta pasta documenta a construção do meu conhecimento em infraestrutura crítica. 🌱
 
 ---
 
 **Anderson Souza** 🛡️
+
