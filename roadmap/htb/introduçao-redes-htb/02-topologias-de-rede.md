@@ -1,7 +1,9 @@
 # Topologias de Rede
 
 > **Módulo:** Introduction to Networking
+
 > **Plataforma:** Hack The Box Academy
+
 > **Status:** ✅ Concluído
 
 ---
