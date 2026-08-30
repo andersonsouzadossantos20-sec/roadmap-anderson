@@ -4,17 +4,15 @@
 
 # 🛡️Minha Jornada em Cybersecurity
 
-
-Este repositório documenta minha evolução técnica e registro de laboratórios práticos em segurança de redes e sistemas. Meu foco é construir uma base sólida, unindo o entendimento do hardware, a lógica das redes e o desenvolvimento de software para compreender a segurança da informação de ponta a ponta.
-
+criei este repositporio para mostrar a minha evoluçao deste ao inicio, aos meus 16 decidi estudar para cibersegurança ao em vez de desenvolvimento web backend assim aproveitando o meu entendimento web e um leve aprendizado de redes na epoca, apos isso a decisao começei o meu aprendizado pela a plataforma de aprendizado Cisco assim entendendo realmente como funciona as redes assim documentei todo o aprendizado e hoje atualmente estou avançando sobre redes revizando entendedo a fundo a certos conceitos e partindo a para a a certificaçao da CTPS seguindo a roadmap da Hack The Box com um foco de aprendizado em pentest.   
+ 
 ### 👨‍💻 Sobre Mim
-* 🎓 **Estudante de Cibersegurança:** Atualmente explorando as trilhas profissionais da Cisco (Networking Academy).
-* 🐍 **Background em Desenvolvimento:** Experiência com Python (Flask e FastAPI), o que me permite entender a fundo a estrutura e as possíveis falhas em aplicações web.
-* 🛠️ **Suporte e Hardware:** Conhecimento em montagem, manutenção e funcionamento de dispositivos (IT Essentials), garantindo uma visão completa da infraestrutura.
+* 🎓 **Estudante de Cibersegurança**
+aos meus 15 anos de idade decidi estudar programaçao entao começei a estudar python, sem muito rumo onde eu realmente queria estudar decidir investir no aprendizado de desenvolvimento web, Servidores, Linux em sequencia fui desenvolvendo habilidades em flask assim tendo uma base em APIs e webSockets,  ate um certo dia decidir colocar todos os meus aprendizados em pratica e fazer um site do zero deste da planejaçao ao deploy entao chegou um ponto onde me preocupei sobre a segurança do meu site, entao decidi pesquisar sobre segurança web assim tendo um encantato sobre vulnerabilidades web como elas funcionava e como eles eram colocada em praticas. 
+
 
 ### 🎯 Foco de Estudo
-* **Fundamentos de Redes:** Endereçamento IPv4/IPv6, sub-redes, protocolos e roteamento (Módulo 9 Cisco e além).
-* **Segurança de Endpoint:** Proteção de dispositivos finais e servidores.
+* **Fundamentos de Redes:** Endereçamento IPv4/IPv6, sub-redes, protocolos e roteamento.
 * **Análise de Vulnerabilidades:** Identificação de falhas lógicas e de configuração em ambientes controlados.
 * **Linux para Cyber:** Domínio do sistema operacional base para ferramentas de segurança.
 
@@ -30,4 +28,6 @@ Este repositório documenta minha evolução técnica e registro de laboratório
 Todo o conteúdo deste repositório é destinado **exclusivamente para fins educacionais**. O uso das técnicas e conceitos aqui descritos em ambientes não autorizados é estritamente proibido. O objetivo é o aprendizado ético para fortalecimento de defesas digitais.
 
 ### 📫 Contato
-* **GitHub:** [andersonsouzadossantos20-sec](https://github.com/andersonsouzadossantos20-sec)
+* **linkedin**: www.linkedin.com/in/anderson-souza-04a5a7384
+
+ 
