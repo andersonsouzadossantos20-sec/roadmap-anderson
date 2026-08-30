@@ -1,54 +1,61 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/andersonsouzadossantos20-sec/tapioca-sec)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/andersonsouzadossantos20-sec/tapioca-sec)
-![GitHub repo size](https://img.shields.io/github/repo-size/andersonsouzadossantos20-sec/tapioca-sec)
+# 🛡️ Jornada em Cibersegurança & Pentest
 
-# 🛡️ Minha Jornada em Cybersecurity
+<p align="left">
+  <img src="https://img.shields.io/github/last-commit/andersonsouzadossantos20-sec/tapioca-sec?style=flat-square&color=00B4D8" alt="Last Commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/andersonsouzadossantos20-sec/tapioca-sec?style=flat-square&color=0077B6" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/repo-size/andersonsouzadossantos20-sec/tapioca-sec?style=flat-square&color=03045E" alt="Repo Size" />
+</p>
 
-**Criei este repositório para mostrar minha evolução desde o início. Aos meus 16 anos, decidi estudar Cibersegurança em vez de seguir no desenvolvimento web backend, porque encontrei uma área que despertou minha curiosidade de entender como as coisas realmente funcionam.**
+Repositório dedicado a documentar minha evolução, anotações de estudo, laboratórios e projetos práticos na área de **Cibersegurança e Penetration Testing**.
 
-**Aproveitando meu conhecimento em desenvolvimento web e o aprendizado que já tinha em redes na época, comecei meus estudos pela plataforma da Cisco, buscando entender melhor como as redes funcionam. A partir disso, passei a documentar meu aprendizado e minha evolução neste repositório.**
-
-**Atualmente, estou avançando nos estudos de redes, revisando e aprofundando alguns conceitos, enquanto sigo pela Penetration Tester Job Role Path da Hack The Box, com foco em construir uma base sólida para Pentest e, futuramente, buscar a certificação CPTS.**
+---
 
 ### 👨‍💻 Sobre Mim
 
-* 🎓 **Estudante de Cibersegurança**
+Iniciei minha trajetória na tecnologia aos 15 anos estudando programação em **Python** e desenvolvimento web backend (Flask, APIs e WebSockets), além de administração de servidores e Linux. 
 
-Aos meus 15 anos, decidi começar a estudar programação. Comecei com Python, ainda sem saber exatamente qual caminho seguir, até decidir investir no desenvolvimento web, servidores e Linux.
+Ao construir e realizar o deploy de uma aplicação web do zero, me deparei com a necessidade de proteger o ambiente. Essa busca por entender vulnerabilidades e defender sistemas transformou meu interesse em paixão pela segurança da informação.
 
-Com o tempo, fui desenvolvendo habilidades com Flask e construindo uma base em APIs e WebSockets. Até que decidi colocar meus conhecimentos em prática e criar um site do zero, desde o planejamento até o deploy.
+Atualmente, dedico meus estudos a construir uma base sólida em infraestrutura e segurança ofensiva ética, com foco na trilha **Penetration Tester Job Role Path (Hack The Box)** e meta de certificação **HTB CPTS**.
 
-Em determinado momento, comecei a me preocupar com a segurança do meu próprio site e decidi pesquisar mais sobre segurança web. Foi aí que surgiu meu interesse por vulnerabilidades, entendendo como elas funcionam e como podem ser exploradas em ambientes controlados.
+---
 
-### 🎯 Foco de Estudo
+### 🚀 Trilha de Aprendizado Atual
 
-Atualmente, esta é a base que estou construindo na área de Cibersegurança:
+- [x] Fundamentos de Redes (Cisco Networking Academy)
+- [x] Administração Básica/Intermediária de Linux & Bash Scripting
+- [ ] Hack The Box: Penetration Tester Path *(em andamento)*
+- [ ] Fundamentos de Active Directory & Privilege Escalation
+- [ ] Segurança em Aplicações Web (OWASP Top 10)
 
-* Redes;
-* Linux;
-* Windows;
-* Web;
-* Enumeração;
-* Vulnerabilidades;
-* Exploração;
-* Privilege Escalation;
-* Active Directory;
-* Scripting/Programação;
-* Metodologia de Pentest.
+---
 
-### 🛠️ Tech Stack
+### 🎯 Áreas de Domínio & Estudo
 
-![Cisco](https://img.shields.io/badge/cisco-%23049ad7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Infraestrutura:** Redes (TCP/IP, Routing/Switching), Linux Admin, Windows & Active Directory.
+- **Segurança Web:** Análise de vulnerabilidades, APIs REST, OWASP Top 10.
+- **Metodologia de Pentest:** Enumeração, Exploração, Pós-Exploração e Privilege Escalation.
+- **Automação & Scripting:** Python e Shell Scripting para criação de rotinas e ferramentas auxiliares.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+![Cisco](https://img.shields.io/badge/Cisco-049AD7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ### ⚠️ Aviso Legal / Disclaimer
 
-Todo o conteúdo deste repositório é destinado **exclusivamente para fins educacionais**. O uso das técnicas e conceitos aqui descritos em ambientes não autorizados é estritamente proibido. O objetivo é o aprendizado ético e o fortalecimento da segurança digital.
+Todo o conteúdo disponibilizado neste repositório destina-se **exclusivamente a fins educacionais e de pesquisa ética**. O uso de ferramentas ou técnicas descritas para realizar acessos não autorizados a sistemas de terceiros é ilegal. O objetivo principal é o fortalecimento de defesas e o aprendizado contínuo.
 
-### 📫 Contato
+---
 
-* **LinkedIn:** www.linkedin.com/in/anderson-souza-04a5a7384
+### 📫 Conecte-se Comigo
+
+- 💼 **LinkedIn:** [Anderson Souza](https://www.linkedin.com/in/anderson-souza-04a5a7384)
+- 🚩 **Hack The Box:** *(Adicione o link do seu perfil aqui quando quiser)*
