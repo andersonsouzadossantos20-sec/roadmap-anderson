@@ -1,1 +1,3 @@
 *.save
+.gitgnore
+roadmap/scripts_roadmap/packetlens/
