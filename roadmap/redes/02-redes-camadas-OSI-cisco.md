@@ -1,4 +1,4 @@
-# 📚 Dia 01 — Modelo OSI
+# 📚 Dia 02 — Modelo OSI
 
 **Data:** 08-03-2026
 **Objetivo do estudo:**
