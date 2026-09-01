@@ -64,9 +64,7 @@ Atualmente, estes são os principais pilares da minha formação:
 
 ---
 
-## 📚 Atualmente
-
-**Trilha principal:** [Penetration Tester Job Role Path](https://academy.hackthebox.com/path/preview/penetration-tester) — Hack The Box  
+## 📚 Atualmente  
 
 **Objetivo:** desenvolver uma base técnica sólida em infraestrutura e segurança ofensiva, evoluindo gradualmente para ambientes mais complexos de:
 

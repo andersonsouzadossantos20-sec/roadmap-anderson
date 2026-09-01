@@ -42,4 +42,9 @@ Aqui eu foco em:
 
 ---
 
+### 🌐 Segurança Web
+Esta seção ainda está em planejamento.
+Atualmente meu foco está em consolidar fundamentos de **Redes** e **Linux**.  
+Quando avançar de forma mais estruturada nos módulos de Web Security (HTB Academy e estudos complementares), as anotações começarão a ser registradas aqui.
+
 **Anderson Souza**🛡️
