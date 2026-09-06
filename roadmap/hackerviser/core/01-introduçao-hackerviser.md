@@ -1,6 +1,6 @@
 # 📚 Registro de Estudo — Cibersegurança
 
-**Data:** 06/09/2026  
+**Data:** 02/09/2026  
 **Tema:** Introdução à Cibersegurança  
 **Área:** Fundamentos de Cibersegurança  
 **Plataforma:** Hackviser CORE
