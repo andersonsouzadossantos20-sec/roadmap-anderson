@@ -177,3 +177,42 @@ Exemplo de IPv4:
 
 ```text
 192.168.1.10
+```
+
+## Endereço MAC
+
+O endereço MAC está associado à interface de rede e é utilizado principalmente na comunicação da camada de enlace.
+
+Exemplo:
+```
+00:1A:2B:3C:4D:5E
+```
+
+Enquanto o IP é utilizado no roteamento entre redes, o MAC possui papel importante na comunicação dentro do segmento de rede local.
+
+## 🧮 IP Subnetting
+
+Subnetting é o processo de dividir uma rede IP em redes menores.
+
+Isso permite:
+
+Melhor organização da infraestrutura.
+Separação de segmentos.
+Redução do domínio de broadcast.
+Melhor utilização dos endereços IP.
+Segmentação de redes.
+
+Exemplo:
+```
+192.168.1.0/24
+```
+Uma rede /24 possui 256 endereços no espaço IPv4, sendo normalmente 254 utilizáveis em uma rede tradicional.
+
+Ao aplicar subnetting, essa rede pode ser dividida em redes menores, como:
+```
+192.168.1.0/26
+192.168.1.64/26
+192.168.1.128/26
+192.168.1.192/26
+```
+Esse conhecimento é fundamental para compreender roteamento, segmentação e alcance de hosts durante um pentest.
