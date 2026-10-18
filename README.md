@@ -14,7 +14,7 @@ Aos **16 anos**, decidi direcionar minha trajetória para **Cibersegurança**, a
 
 Meu primeiro passo formal foi estudar pela **Cisco Networking Academy**, onde construí uma base sólida em redes e passei a compreender melhor o funcionamento da infraestrutura por trás das aplicações.
 
-Atualmente, continuo aprofundando meus conhecimentos em redes e avançando na trilha **Penetration Tester Job Role Path**, da **Hack The Box**, com foco no desenvolvimento das habilidades necessárias para atuar profissionalmente com **Penetration Testing** e, futuramente, buscar a certificação **HTB CPTS**.
+Atualmente, continuo aprofundando meus conhecimentos no roadmap **Pre Security**, da **TryHackMe**, com foco no desenvolvimento das habilidades necessárias para atuar profissionalmente com **Penetration Testing** e, futuramente, buscar a certificação **web Application pentesting**.
 
 ---
 
@@ -40,13 +40,11 @@ Atualmente, estes são os principais pilares da minha formação:
 |----------------------------|----------------------------------------|
 | 🌐 Redes e protocolos      | Em aprofundamento                      |
 | 🐧 Linux                   | Prática constante                      |
-| 🪟 Windows                 | Em progresso                           |
 | 🌍 Segurança Web           | Em progresso                           |
 | 🔎 Reconhecimento e enumeração | Em progresso                        |
 | 🐛 Análise de vulnerabilidades | Em progresso                        |
 | 💥 Exploração              | Em progresso                           |
 | ⬆️ Privilege Escalation    | Em progresso                           |
-| 🏢 Active Directory        | Em progresso                           |
 | 🐍 Scripting e programação | Contínuo                               |
 | 🛡️ Metodologias de Pentest | Em progresso                           |
 
@@ -70,17 +68,7 @@ Atualmente, estes são os principais pilares da minha formação:
 
 - Web Pentest  
 - Network Pentest  
-- Active Directory  
 - Privilege Escalation  
 
 ---
 
-## 📂 Estrutura do Repositório (sugestão)
-
-```text
-├── networks/           # Anotações e labs de redes
-├── linux/              # Comandos, scripts e privilege escalation
-├── web-security/       # Vulnerabilidades web e exploração
-├── active-directory/   # Conteúdo de AD
-├── tools/              # Scripts e ferramentas próprias
-└── notes/              # Anotações gerais e resumos
