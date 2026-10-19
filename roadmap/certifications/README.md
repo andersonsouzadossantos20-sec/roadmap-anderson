@@ -19,8 +19,3 @@ Diferente de outras áreas, a segurança da informação exige padrões rígidos
 | **noções basica de rede** | cisco | Entender a base de redes e como funciona a internet. | ✅  concluído |
 | **dispositivos de rede e configuração inicial** | cisco | continuar aprendendo os conceitos de rede. | em progresso. |
 
-## 🚀 Próximos Alvos (Minha Trilha)
-Minha meta é construir um perfil híbrido (Defesa e Ataque). Meus próximos passos futuramente incluem:
-1. **CompTIA Security+:** Para consolidar a base de analista de segurança.
-2. **eJPT / OSCP:** Focando no lado prático de Testes de Invasão (Pentest).
-3. **AWS/Azure Cloud Security:** Porque o futuro dos dados está na nuvem.
