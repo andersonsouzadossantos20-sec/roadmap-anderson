@@ -1,9 +1,8 @@
 ### Progresso **roadmap** do **TryHackMe**
 
 
-| Pre Security | Em progresso |
-|-------------------------------
-|cyber Security 101 | nao iniciado |
-|-------------------------------
-|Jr Penetration Tester | nao iniciado|
-
+| Path                  | Status        |
+|-----------------------|---------------|
+| Pre Security          | Em progresso  |
+| Cyber Security 101    | Não iniciado  |
+| Jr Penetration Tester | Não iniciado  |
